@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "bsp_systick.h": "c",
+        "bsp_led.h": "c",
+        "bsp_beep.h": "c",
+        "bsp_key.h": "c",
+        "bsp_usart.h": "c",
+        "bsp_timer.h": "c",
+        "bsp_pwm.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "bsp_ppm.h": "c",
+        "bsp_pwmcapture.h": "c",
+        "bsp_pwmcapture_pulsewidth.h": "c",
+        "bsp_delay.h": "c",
+        "bsp_gpioremap.h": "c",
+        "bsp_motor.C": "cpp",
+        "bmp.h": "c",
+        "bsp_oled.h": "c",
+        "oledfont.h": "c",
+        "bsp_ranger.h": "c",
+        "app.h": "c",
+        "lcdfont.h": "c",
+        "servo.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
